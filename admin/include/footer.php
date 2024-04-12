@@ -1,0 +1,1 @@
+ <footer class="footer" style="text-align: center;">TriforceParas © 2024 - Tomato Food ordering DS Site- <a href="https://www.reddit.com/user/triforce_paras/">Paras</a> </footer>
